@@ -1,0 +1,4 @@
+T
+
+###paragraph##@style="background-repeat:no-repeat;text-align:justify;font-family:Arial;"##@QLabel{background-repeat:no-repeat;font-family:Arial;font-size:18px;}##@<p style="background-repeat:no-repeat;text-align:justify;font-family:Arial;">SS</p>##@default##@SS##@<p>SS</p>
+
